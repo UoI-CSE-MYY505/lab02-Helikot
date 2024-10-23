@@ -11,6 +11,7 @@ array: .word 1, 0, 1, 12, 0, 1, 4
 prog:
 #-----------------------------
 # Write your code here!
+# Ow yes i Will, i sure will
 # Do not remove the prog label or write code above it!
 #-----------------------------
 done:
